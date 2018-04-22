@@ -16,8 +16,12 @@ Is located inside src/demo directory, here you can test your library while devel
 
 ## Build library
 ```
-npm publish
+npm run build
 ```
+## Publish Library
+```
+npm publish
+````
 
 ## Example library built with this starter kit
 [React Redux Counter](https://www.npmjs.com/package/react-redux-counter)
