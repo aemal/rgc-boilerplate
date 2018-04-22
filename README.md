@@ -9,10 +9,14 @@
 ```
 
 ## Lib Files
-All library files are located inside src/lib.
+All library files are located inside ```src/lib```.
 
 ## Demo app
 Is located inside src/demo directory, here you can test your library while developing
+To run demo you have to do 
+```
+npm run demo
+```
 
 ## Build library
 ```
